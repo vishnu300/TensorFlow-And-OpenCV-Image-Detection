@@ -1,0 +1,46 @@
+.qw{
+    color: #000;
+    font-family: "Inria Sans";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 10;
+    line-height: normal;
+}
+
+.we{
+    color: rgb(0, 0, 0);
+    font-family: "Inria Sans";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 1;
+    line-height: normal;
+    margin-left: 489px;
+    margin-right: auto;
+}
+.qsw{
+    color: #000;
+    font-family: "Inria Sans";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 10;
+    line-height: normal;
+    width: 471px;
+    height: 73px;
+    flex-shrink: 0;
+
+}
+.fistimage{
+    border-radius: 4px;
+    padding: 5px;
+    width: 180px;
+
+}
+
+.secImage{
+    border-radius: 10px;
+    padding: 5px;
+    max-width: 90%;
+    height: auto;
+    margin-left: 64px;
+    margin-right: auto;
+}

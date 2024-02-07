@@ -1,0 +1,31 @@
+.heading{
+    font-size: 30px;
+    margin-top: 0%;
+    text-align: center;
+}
+
+.box{
+    width: 1073px;
+    height: 48px;
+    border-radius: 12px;
+    padding: 3px;
+}
+
+/* .post{
+    width: 1073px;
+    height: 48px;
+    border-radius: 12px;
+    padding: 3px;
+} */
+
+
+.qww{
+    width: 94px;
+    height: 32px;
+    border-radius: 7px;
+    padding: 3px;
+}
+.boxview{
+    width: 30px;
+    height: 10px;
+}
