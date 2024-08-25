@@ -1,0 +1,17 @@
+<!-- compressor/templates/compressor/compress_pdf.html -->
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PDF Compressor</title>
+</head>
+<body>
+    <h1>Upload PDF to Compress</h1>
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="file" name="pdf_file" required>
+        <button type="submit">Compress PDF</button>
+    </form>
+</body>
+</html>
